@@ -1,4 +1,5 @@
-Description du Projet
+Description du Projet : 
+
 Ce projet, réalisé dans le cadre de notre Master, vise à identifier les profils et parcours types pour faciliter la prise en charge et la réintégration professionnelle des nouveaux arrivants au sein de l'entreprise de réinsertion VitamineT. Nous appliquerons nos compétences en traitement de données pour aborder des données structurées et non structurées, et pour développer une solution adaptée à une problématique métier complexe.
 
 Objectifs : 
